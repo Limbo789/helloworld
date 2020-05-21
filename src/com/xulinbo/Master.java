@@ -13,4 +13,7 @@ public class Master {
     public static void Says(){
         System.out.println("this is master saying;");
     }
+    public static void wink(){
+        System.out.println("this is master winking ");
+    }
 }
